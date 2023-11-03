@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(50, 50, 66);
+    
+}
+
+
+.all{
+    color:white;
+    border: 1px solid;
+    padding: 20px;
+    text-align: justify;
+    border-radius: 1rem;
+    background-color:hsl(217, 54%, 11%);
+    border-color:rgb(88, 88, 102);
+}
+
+.first-imi{
+    width: 300px;
+    justify-content: center;
+    border-radius: 1rem;
+}
+
+.all .nat{
+    text-decoration: overline;
+}
+    
+    .icon{
+        display: flex;
+        justify-content: space-between;
+    }
+
+
+
+    
+    
+
+    .avat{
+        width: 45px;
+        height: 40px;
+    }
+
+    .vat{
+        display: flex;
+        
+    }
+    .vat p{
+
+        margin: 10px;
+    }
+
+    .nat{
+       color:rgb(88, 88, 102)
+        
+    }
+
+    .our{
+        color: hsl(215, 51%, 70%);
+        font-size: 1.2rem;
+    }
+
+    .green{
+        
+        
+        color: hsl(178, 100%, 50%);
+    }
+
+    .days{
+        color:  hsl(215, 51%, 70%);
+    }
+
+    .creat{
+        color: hsl(215, 51%, 70%);
+    }
+
+    .foot{
+        display: flex;
+        align-items: center;
+        
+    }
+
+    .foot img{
+        border: 1px solid;
+        border-radius: 3rem;
+    }
+
+    .foot p{
+        margin-left: 20px;
+    }
+
+  .icon img{
+    margin-right: 1px;
+  }
+
+  .icon-imi2{
+    margin-left: 140px;
+  }
